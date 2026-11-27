@@ -5,3 +5,4 @@ __pycache__/
 .env.local
 .streamlit/secrets.toml
 Data/
+.ipynb_checkpoints/
